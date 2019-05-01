@@ -21,7 +21,7 @@ a {
 }
 .img-holder img {
   width: 33%;
-  margin: 10px;
+  margin: 0px;
   cursor: pointer;
 }
 .header {
